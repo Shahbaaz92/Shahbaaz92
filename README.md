@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahbaaz also known as Hawkster.
+- 👋 Hi, I’m Shahbaaz Athhar.
 - 👀 I’m interested in creating creative and functional websites and applications!! I am also interested in learning different speaking languages of the world!
 - 🌱 I’m currently learning Javascript to become a full-stack web developer! I am also learning Japanese!
 - 💞️ I’m looking to collaborate on making a big social media platform!
