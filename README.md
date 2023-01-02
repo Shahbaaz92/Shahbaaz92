@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahbaaz Athhar.
 - 👀 I’m interested in creating creative and functional websites and applications!! I am also interested in learning different speaking languages of the world!
-- 🌱 I’m currently learning Javascript to become a full-stack web developer! I am also learning Japanese!
-- 💞️ I’m looking to collaborate on making a big social media platform!
+- 🌱 I’m currently learning front end development! I am also learning Japanese and German!
+- 💞️ In coming future i will learn full stack web development and blockchain development.
 - 📫 How to reach me - You can send a mail to shahbaaz.athhar2305@gmail.com.
 
 <!---
